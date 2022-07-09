@@ -8,3 +8,7 @@ Glaucoma is an eye disease caused by elevated intra-ocular pressure. This elevat
 
 
 SHAP (Shapley Additive explanation) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions. The result obtained with deep learning based ResNet50 model and the accuracy obtained is 99.04%.
+
+
+data set is downloaded from Kaggle repositary
+So here is the link for dataset https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
